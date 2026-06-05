@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "DavPosFront",
-  "version": "2026.06.05.0309",
-  "createdAt": "2026-06-05T03:09:57.927Z",
+  "version": "2026.06.05.0322",
+  "createdAt": "2026-06-05T03:22:28.061Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
@@ -25,6 +25,11 @@
       "path": "assets/empleados.png",
       "size": 29873,
       "sha256": "5b2fc73a9a1cb9d44c6436f61382fa146adad82b224c5b0d75e95c2ea1dfb068"
+    },
+    {
+      "path": "assets/iconAppDav.png",
+      "size": 2205164,
+      "sha256": "a64ec1dac86e63dbe12cd3952cc0401d85b63982b593704d2477ec7b790152db"
     },
     {
       "path": "assets/inventario.png",
