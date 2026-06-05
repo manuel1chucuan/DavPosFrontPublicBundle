@@ -2,7 +2,7 @@
   "schema": 1,
   "app": "DavPosFront",
   "version": "2026.06.05.0611",
-  "createdAt": "2026-06-05T06:11:46.319Z",
+  "createdAt": "2026-06-05T06:11:57.389Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
