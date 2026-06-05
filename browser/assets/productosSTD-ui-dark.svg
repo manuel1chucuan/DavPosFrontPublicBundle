@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Producto">
+  <defs>
+    <linearGradient id="bag-body" x1="14" y1="26" x2="50" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0e7490"/>
+      <stop offset="1" stop-color="#155e75"/>
+    </linearGradient>
+    <linearGradient id="bag-handle" x1="22" y1="8" x2="42" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M23 26Q32 8 41 26"
+    stroke="#99f6e4"
+    stroke-width="5.4"
+    stroke-linecap="round"
+    fill="none"/>
+  <path
+    d="M23 26Q32 8 41 26"
+    stroke="url(#bag-handle)"
+    stroke-width="3.9"
+    stroke-linecap="round"
+    fill="none"/>
+
+  <path
+    d="M22 26H42L49 51.5C49.55 54.35 47.05 56.25 44 56.25H20C16.95 56.25 14.45 54.35 15 51.5L22 26Z"
+    fill="url(#bag-body)"/>
+</svg>

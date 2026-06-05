@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Servicios">
+  <defs>
+    <linearGradient id="svcMain" x1="18" y1="18" x2="102" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.52" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="svcPanel" x1="24" y1="30" x2="82" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#172033"/>
+      <stop offset="1" stop-color="#263449"/>
+    </linearGradient>
+  </defs>
+  <rect x="22" y="34" width="56" height="54" rx="10" fill="url(#svcPanel)"/>
+  <path d="M31 58h36M31 70h27" stroke="#67e8f9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M42 34v-8a8 8 0 0 1 8-8h8a8 8 0 0 1 8 8v8" fill="none" stroke="#94a3b8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M70 77 91 56a8 8 0 0 1 12 10L82 87l-16 5 4-15Z" fill="url(#svcMain)"/>
+  <path d="M83 64 95 76" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".74"/>
+  <circle cx="35" cy="38" r="7" fill="#f59e0b"/>
+  <path d="M24 98h72" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "app": "DavPosFront",
+  "version": "2026.06.05.0253",
+  "createdAt": "2026-06-05T02:53:09.841Z",
+  "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "path": "assets/backgrounds/davai-pos-default.svg",
+      "size": 2298,
+      "sha256": "790d9e4debb586d3d864cd0abfd1b00621481bb4a3683c8aabfe668406e676c5"
+    },
+    {
+      "path": "assets/bella.png",
+      "size": 89207,
+      "sha256": "d71e0b5917ffe0dc1bf7c44b709fb922d4b90361a4d28f4fe80369b343a1fcbf"
+    },
+    {
+      "path": "assets/caja.png",
+      "size": 8595,
+      "sha256": "faa34115ede36818db903a1d5990eed5198e2ae4d93f705f981c6da7f900f9e6"
+    },
+    {
+      "path": "assets/empleados.png",
+      "size": 29873,
+      "sha256": "5b2fc73a9a1cb9d44c6436f61382fa146adad82b224c5b0d75e95c2ea1dfb068"
+    },
+    {
+      "path": "assets/inventario.png",
+      "size": 27181,
+      "sha256": "a3acd3f07eda2b2d927d32f2d5a7cb53416c0d8e35b55e4f623810e6540e0c3f"
+    },
+    {
+      "path": "assets/logokc.png",
+      "size": 254037,
+      "sha256": "1467a3befd6c08743acd2f3090626218cb327fb9630e6c5825c59780dce9089a"
+    },
+    {
+      "path": "assets/mas5.png",
+      "size": 15433,
+      "sha256": "ac693ac37eab0aba192686358fe69bea88ea100904f250d7b3238f9244284bfd"
+    },
+    {
+      "path": "assets/org.checker-backup.png",
+      "size": 21413,
+      "sha256": "95aeac9c0f6d8217e043214a51ddc33a8f08d6217aba87c5e2fb967970cb2bf7"
+    },
+    {
+      "path": "assets/org.png",
+      "size": 27729,
+      "sha256": "05198ad141622bc8655640ed62ef82c02f3ef4752bf42261b4e7a43b4bafcdce"
+    },
+    {
+      "path": "assets/org.svg",
+      "size": 1055,
+      "sha256": "3df8ec8d5833944f048288a48c8098fd60b8c7949e45fbd956f4076d0068b2ed"
+    },
+    {
+      "path": "assets/organizacion.svg",
+      "size": 1513,
+      "sha256": "b6ef79c6503c734b1c7bc8779e68c44f85640222455668006b65e965d03bab5d"
+    },
+    {
+      "path": "assets/producto.jpg",
+      "size": 9061,
+      "sha256": "1b71f611dfea5e5134ea4d742e5e9f16d8ce161524f55feeae528c1899b005d2"
+    },
+    {
+      "path": "assets/productosSTD-ui-dark.svg",
+      "size": 958,
+      "sha256": "05d3d38cc283863aead4ccdd1c1cdff394313fa5b9d9800914570eda17846a91"
+    },
+    {
+      "path": "assets/productosSTD-ui-source.png",
+      "size": 1009728,
+      "sha256": "9b98a7fbe98af4005d63f86efc20342be75a44e0f1cc94d8923ae0b0aacf4625"
+    },
+    {
+      "path": "assets/productosSTD-ui.png",
+      "size": 1533570,
+      "sha256": "a18f091848385596751146cf7e30ce38d12d5a263f3c8c098facdc809a720a17"
+    },
+    {
+      "path": "assets/productosSTD.png",
+      "size": 1599978,
+      "sha256": "1041bf6ea2c683dcf31761eea0b232483c123140e1eca1a76bdc98cc78af0efd"
+    },
+    {
+      "path": "assets/servicios-generales.svg",
+      "size": 1216,
+      "sha256": "41f39a0c837184ba99803ea1627edcec96939d56deeeb4a05b05fa92c8e3782a"
+    },
+    {
+      "path": "assets/serviciosSTD-ui-dark.svg",
+      "size": 1531,
+      "sha256": "c9338d6e58d95d51674b1880d443974a3f534a9e533dbc39eeedecf0cdc3833e"
+    },
+    {
+      "path": "assets/serviciosSTD-ui-source.png",
+      "size": 1355482,
+      "sha256": "36955b56451b6db9553ed3d202165e603c90af10ecab86dfdf693e89b9f26459"
+    },
+    {
+      "path": "assets/serviciosSTD-ui.png",
+      "size": 2072007,
+      "sha256": "7fdfc454ae0ff646e35616c289a15735fa6d614393c94307e6849f34fd2c1bf1"
+    },
+    {
+      "path": "assets/sucursal.png",
+      "size": 19068,
+      "sha256": "07b9adc7d49629bcef3813e5f3f69d4615e6ba8c099df1987933d508051c93a9"
+    },
+    {
+      "path": "assets/sucursal2.png",
+      "size": 18652,
+      "sha256": "4e8c754c34ebfda1a73008885b59649c493e6d45aaa00d2dd290cb5d0effad78"
+    },
+    {
+      "path": "assets/ventas.png",
+      "size": 30779,
+      "sha256": "34ec67ddb4abfea1f3c724f4000149f5b83672a0d6c39128352c7ca1e60c9978"
+    },
+    {
+      "path": "favicon.ico",
+      "size": 15086,
+      "sha256": "f9102be80297c0529207607be5277b4f90bca89d65988fa1771b91c7894e815f"
+    },
+    {
+      "path": "index.csr.html",
+      "size": 19648,
+      "sha256": "6174564a1298e333833b3b6f14a0c3cf5a6e3a17aade0c93861e02f022793730"
+    },
+    {
+      "path": "index.html",
+      "size": 33147,
+      "sha256": "b6e87e6ad285123ffefaa5f7d155cc1124ee2ac0c4dc886cad643742e056836f"
+    },
+    {
+      "path": "main-THR5YQKL.js",
+      "size": 1953739,
+      "sha256": "27fb4f9c1e105b4a453d054a338237f21bdaa38ec11a12a92ecb8be57ca36d3a"
+    },
+    {
+      "path": "media/color-727V6BA6.png",
+      "size": 18671,
+      "sha256": "d8e429c0cd758232eca312458c60c77291cb6cc74b94e76b88a69b51b4e39900"
+    },
+    {
+      "path": "media/hue-3YTJE6JS.png",
+      "size": 497,
+      "sha256": "3f12991d7151533d290fcb21bba6f2c1f2098c574a1bcc46d2b51c372c5c9b83"
+    },
+    {
+      "path": "media/Inter-italic.var-YRHKCDAA.woff2",
+      "size": 443547,
+      "sha256": "be0bbd388e2e0261fbd89124dc2d19a7da1682dfff42160a429649d1f6190ca3"
+    },
+    {
+      "path": "media/Inter-roman.var-5VGNBR6A.woff2",
+      "size": 410665,
+      "sha256": "91fdc9d126aa556c0fe6dc2389b8cc332f49c20822e2c9478308fe0daf51164e"
+    },
+    {
+      "path": "media/primeicons-4GST5W3O.woff2",
+      "size": 35148,
+      "sha256": "9eea6e0bcb974ec568fdcb1eec182d3b5383a3a23899a690140b2c0167886882"
+    },
+    {
+      "path": "media/primeicons-DHQU4SEP.svg",
+      "size": 342525,
+      "sha256": "36c54cecfca947a6913c96df884300ce14108c4d8cb1cb241969321342f890c9"
+    },
+    {
+      "path": "media/primeicons-GEFHGEHP.ttf",
+      "size": 84980,
+      "sha256": "dc895fee9f3ce1b0eaf16b4b9fab20077fc2981e6c0b332e4c97c176832fc05b"
+    },
+    {
+      "path": "media/primeicons-P53SE5CV.woff",
+      "size": 85056,
+      "sha256": "f5d1d2195e05b8085953aa7d50b2e77070cd1120e0100a8600771aa5ba11a01e"
+    },
+    {
+      "path": "media/primeicons-RSSEDYLY.eot",
+      "size": 85156,
+      "sha256": "987f23eadfa70c603276a71c3c975c8d0534d9c719d8a6e3d965005e7b93747b"
+    },
+    {
+      "path": "menu/index.html",
+      "size": 22035,
+      "sha256": "ac36aa12adaa72108578281595c5245ba28c46f268c73353a953370acb1332a7"
+    },
+    {
+      "path": "polyfills-FFHMD2TL.js",
+      "size": 34519,
+      "sha256": "69dcea045643dd0de998a3cd0ccbbb46b46bff2651a87a56c73c28eb208e8f98"
+    },
+    {
+      "path": "scripts-QYHR5MO2.js",
+      "size": 60207,
+      "sha256": "666233b81a39b590cc2cbcbcb77286b76a3ac9ad44484c069e4bfea6b1b57a57"
+    },
+    {
+      "path": "styles-27IDLSVU.css",
+      "size": 626060,
+      "sha256": "0d3ff9106a66493fc59fd4199bfaf30d8c8f339f05afbe868eb398a7f5f2a5c7"
+    }
+  ]
+}
