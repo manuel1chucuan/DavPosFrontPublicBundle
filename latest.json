@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "DavPosFront",
-  "version": "2026.06.06.0649",
-  "createdAt": "2026-06-06T06:49:41.512Z",
+  "version": "2026.06.08.0540",
+  "createdAt": "2026-06-08T05:40:18.993Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
@@ -133,18 +133,18 @@
     },
     {
       "path": "index.csr.html",
-      "size": 19648,
-      "sha256": "4f7d9bf5b887d487cace4caaeb84d27e80499149f5c81a497f187d6ec1ea6546"
+      "size": 19599,
+      "sha256": "5e524a47e307bc197058803ea9984508504b0dbee78643aff1e04bc3408bbe68"
     },
     {
       "path": "index.html",
-      "size": 37446,
-      "sha256": "6bcb4e3b4e5f91634a3d95025a48d7c093b520cd90b477291bd1b710745ad637"
+      "size": 37340,
+      "sha256": "2b0e783a7a52cc8ab4772ab561be0adc249e983cc3178c86ab45ec85749abca7"
     },
     {
-      "path": "main-L2UDIZVA.js",
-      "size": 2011640,
-      "sha256": "fa2680b3a1f2afa6102e3583e75c69486f7472d12baf5a21adcdfb85785fcfbf"
+      "path": "main-RQNSXFHW.js",
+      "size": 2195661,
+      "sha256": "d1c4febec2a2047af36f07eb8c93c86f1e66b2f2a701216a4abf5201ff9e61c1"
     },
     {
       "path": "media/color-727V6BA6.png",
@@ -193,8 +193,8 @@
     },
     {
       "path": "menu/index.html",
-      "size": 22035,
-      "sha256": "9065db94692994a65383fc05139719e27009140aa972426596a0560475a74c05"
+      "size": 21986,
+      "sha256": "0208d845f4427ca4bf8401bfd9547d8ce31f15041dc646f5499c551b9d3bfb3f"
     },
     {
       "path": "polyfills-FFHMD2TL.js",
@@ -202,14 +202,9 @@
       "sha256": "69dcea045643dd0de998a3cd0ccbbb46b46bff2651a87a56c73c28eb208e8f98"
     },
     {
-      "path": "scripts-QYHR5MO2.js",
-      "size": 60207,
-      "sha256": "666233b81a39b590cc2cbcbcb77286b76a3ac9ad44484c069e4bfea6b1b57a57"
-    },
-    {
-      "path": "styles-RQQI2VJH.css",
-      "size": 635905,
-      "sha256": "cb1ca8dec62c0e20cb2fed2f22b0f0f87d625e1792c6c57a8bd3f6ada0069b39"
+      "path": "styles-2ACMM5O4.css",
+      "size": 640328,
+      "sha256": "ef2cf1ab7e3f91983a3383d8c5b12dfe4e7bcefae70ad948f7ce4aaac59eabd7"
     }
   ]
 }
