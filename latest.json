@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "DavPosFront",
-  "version": "2026.06.13.0657",
-  "createdAt": "2026-06-13T06:57:37.022Z",
+  "version": "2026.06.15.0347",
+  "createdAt": "2026-06-15T03:47:37.875Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
@@ -134,17 +134,17 @@
     {
       "path": "index.csr.html",
       "size": 19599,
-      "sha256": "cac313c98057da67a87bdd76572b2267e0f3dc28c3005a9af9065a7329e23e43"
+      "sha256": "baada64ba4b6a71f93cd5b3bbeaba2631a6800aa4de2237ff84ee45552f1ba7b"
     },
     {
       "path": "index.html",
       "size": 37785,
-      "sha256": "22ffe49cdb1d6b945afa78c01812187a1abda4c3063b3d120d65849ae2f92380"
+      "sha256": "fc0ac14d50be9a7dfa73668e6025c8198f0c48872be7ddab6096648aa96822dd"
     },
     {
-      "path": "main-AOJ6QLDK.js",
-      "size": 2439507,
-      "sha256": "a0d9dfee2cbbfa7062c1ff4b1f786e492213220481f80bd6f93dc83d5311d7a8"
+      "path": "main-XF7ILSW3.js",
+      "size": 2536656,
+      "sha256": "053c03d1971ee53e7ea87e482f36e5a1d7d9d97047f9159aafdbc047d3db9e11"
     },
     {
       "path": "media/color-727V6BA6.png",
@@ -194,7 +194,7 @@
     {
       "path": "menu/index.html",
       "size": 21986,
-      "sha256": "6c73567a8099a6c81c9817984a59c694f7e48ca5813b5cfa2feb39d6ed43b280"
+      "sha256": "470dc8e4956306993ecb6b830a04cb9c523c3c35b8df4a36b16a1492f0ee7094"
     },
     {
       "path": "polyfills-FFHMD2TL.js",
@@ -202,9 +202,9 @@
       "sha256": "69dcea045643dd0de998a3cd0ccbbb46b46bff2651a87a56c73c28eb208e8f98"
     },
     {
-      "path": "styles-K7QGIINT.css",
-      "size": 644616,
-      "sha256": "1ef1d60a12a223cb628eaebd28e7c815f5bb34b1a878b9d4464a6521a6b56827"
+      "path": "styles-YXGYCK4M.css",
+      "size": 647327,
+      "sha256": "c1bf5525d5ee8d8ab3b7201b7c13c2c8714ec7f6cfd6cc755cb9d1c45d3188de"
     }
   ]
 }
