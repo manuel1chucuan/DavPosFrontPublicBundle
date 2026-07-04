@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "DavPosFront",
-  "version": "2026.06.28.0356",
-  "createdAt": "2026-06-28T03:56:45.449Z",
+  "version": "2026.07.04.0731",
+  "createdAt": "2026-07-04T07:31:00.456Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
@@ -20,6 +20,11 @@
       "path": "assets/caja.png",
       "size": 8595,
       "sha256": "faa34115ede36818db903a1d5990eed5198e2ae4d93f705f981c6da7f900f9e6"
+    },
+    {
+      "path": "assets/clientas.png",
+      "size": 34916,
+      "sha256": "a33855e6cd39c1e341d65b5c2c378f59585001ff56a5a7edf80054a950047427"
     },
     {
       "path": "assets/empleados.png",
@@ -63,8 +68,8 @@
     },
     {
       "path": "assets/organizacion.svg",
-      "size": 1513,
-      "sha256": "b6ef79c6503c734b1c7bc8779e68c44f85640222455668006b65e965d03bab5d"
+      "size": 1488,
+      "sha256": "79e972fd8171366c23d2c9a24bbf5a78db4b43b53230f6f0d903e91cbf91d47c"
     },
     {
       "path": "assets/producto.jpg",
@@ -73,8 +78,8 @@
     },
     {
       "path": "assets/productosSTD-ui-dark.svg",
-      "size": 958,
-      "sha256": "05d3d38cc283863aead4ccdd1c1cdff394313fa5b9d9800914570eda17846a91"
+      "size": 929,
+      "sha256": "b7eae4e1145e76f4feac4a20c2e73d4b03d2395321bf171f308bea774f56270a"
     },
     {
       "path": "assets/productosSTD-ui-source.png",
@@ -93,13 +98,13 @@
     },
     {
       "path": "assets/servicios-generales.svg",
-      "size": 1216,
-      "sha256": "41f39a0c837184ba99803ea1627edcec96939d56deeeb4a05b05fa92c8e3782a"
+      "size": 1196,
+      "sha256": "47bb6e698ba85c0e2e83bd0ff6fa2bc23b6728990bd57da449b5782563493f7e"
     },
     {
       "path": "assets/serviciosSTD-ui-dark.svg",
-      "size": 1531,
-      "sha256": "c9338d6e58d95d51674b1880d443974a3f534a9e533dbc39eeedecf0cdc3833e"
+      "size": 1507,
+      "sha256": "17e81c617eb523045c9331e862fd5815ed995f1defb6e21e463057a6ba0ad7a0"
     },
     {
       "path": "assets/serviciosSTD-ui-source.png",
@@ -133,18 +138,18 @@
     },
     {
       "path": "index.csr.html",
-      "size": 19599,
-      "sha256": "ecd11bda544a9a811164185335904389ee9bdf05136e5c8f42656def3418ce6c"
+      "size": 19497,
+      "sha256": "027eb48937c9a10a9cbe2cec387a59c7bbb9087ccba63fc1372d420f69f87da2"
     },
     {
       "path": "index.html",
       "size": 37785,
-      "sha256": "48e0400b2a4112c0c6b4369e19bc92ad52c2536eba15e8eab675f472907fa0dc"
+      "sha256": "0db0aae51352694ae6fbd032892662f5f6f5c1181a91c4a888a0f395216ddcd1"
     },
     {
-      "path": "main-JVM4BATH.js",
-      "size": 2560375,
-      "sha256": "524d10f5fd9295b3f807164eba7f00c7b16fbcf669fdae28c7dfa7538c93531d"
+      "path": "main-ND7GH37A.js",
+      "size": 2612621,
+      "sha256": "cf454e86a7520f3354cb6cfffee09e209495fe79baaadb256d99c8a6a6f0bbf5"
     },
     {
       "path": "media/color-727V6BA6.png",
@@ -194,7 +199,7 @@
     {
       "path": "menu/index.html",
       "size": 21986,
-      "sha256": "c5b38ca4ae59821439f1492615934c60cce6338fcb17ccabe60f63102c13bab6"
+      "sha256": "3f9d088072897959b0e4368234e452a75244780dd969e3b2c37bebe104b45e26"
     },
     {
       "path": "polyfills-FFHMD2TL.js",
@@ -202,9 +207,9 @@
       "sha256": "69dcea045643dd0de998a3cd0ccbbb46b46bff2651a87a56c73c28eb208e8f98"
     },
     {
-      "path": "styles-YXGYCK4M.css",
-      "size": 647327,
-      "sha256": "c1bf5525d5ee8d8ab3b7201b7c13c2c8714ec7f6cfd6cc755cb9d1c45d3188de"
+      "path": "styles-SYUKYRWA.css",
+      "size": 651117,
+      "sha256": "b798f0ccfec3a29924e561e228f21ecce78615ebb6078f7bbff5e1b9a21b9faf"
     }
   ]
 }
