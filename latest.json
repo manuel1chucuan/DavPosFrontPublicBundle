@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "DavPosFront",
-  "version": "2026.06.28.0356",
-  "createdAt": "2026-06-28T03:56:45.449Z",
+  "version": "2026.07.05.0856",
+  "createdAt": "2026-07-05T08:56:23.297Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
@@ -20,6 +20,11 @@
       "path": "assets/caja.png",
       "size": 8595,
       "sha256": "faa34115ede36818db903a1d5990eed5198e2ae4d93f705f981c6da7f900f9e6"
+    },
+    {
+      "path": "assets/clientas.png",
+      "size": 34916,
+      "sha256": "a33855e6cd39c1e341d65b5c2c378f59585001ff56a5a7edf80054a950047427"
     },
     {
       "path": "assets/empleados.png",
@@ -134,17 +139,17 @@
     {
       "path": "index.csr.html",
       "size": 19599,
-      "sha256": "ecd11bda544a9a811164185335904389ee9bdf05136e5c8f42656def3418ce6c"
+      "sha256": "6f637bad4e4e3ce07a2ce2f403231ae31c5cb9e6a180ddc00c6ef01f5e9fc4bc"
     },
     {
       "path": "index.html",
       "size": 37785,
-      "sha256": "48e0400b2a4112c0c6b4369e19bc92ad52c2536eba15e8eab675f472907fa0dc"
+      "sha256": "b00914ad2db76f411186d9c50ace41ce0dbb576d273bc0b4b7c2c54482a459e8"
     },
     {
-      "path": "main-JVM4BATH.js",
-      "size": 2560375,
-      "sha256": "524d10f5fd9295b3f807164eba7f00c7b16fbcf669fdae28c7dfa7538c93531d"
+      "path": "main-XJVOGIPC.js",
+      "size": 2707742,
+      "sha256": "36250317a0ddecc22fb4d96f8596db37d2a4a015aee7ad89cbc877cfbf175e19"
     },
     {
       "path": "media/color-727V6BA6.png",
@@ -194,7 +199,7 @@
     {
       "path": "menu/index.html",
       "size": 21986,
-      "sha256": "c5b38ca4ae59821439f1492615934c60cce6338fcb17ccabe60f63102c13bab6"
+      "sha256": "5732388921c90c2c94c4f273a24089cf73e16160a5f4cc8cfed72700b644ce88"
     },
     {
       "path": "polyfills-FFHMD2TL.js",
@@ -202,9 +207,9 @@
       "sha256": "69dcea045643dd0de998a3cd0ccbbb46b46bff2651a87a56c73c28eb208e8f98"
     },
     {
-      "path": "styles-YXGYCK4M.css",
-      "size": 647327,
-      "sha256": "c1bf5525d5ee8d8ab3b7201b7c13c2c8714ec7f6cfd6cc755cb9d1c45d3188de"
+      "path": "styles-HTHTPQYC.css",
+      "size": 655157,
+      "sha256": "ca55bac08822549bde820af31b54158838557b7920bc1975020d07ef4d15639a"
     }
   ]
 }
