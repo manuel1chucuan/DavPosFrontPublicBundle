@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "DavPosFront",
-  "version": "2026.07.12.0723",
-  "createdAt": "2026-07-12T07:23:21.285Z",
+  "version": "2026.07.18.0337",
+  "createdAt": "2026-07-18T03:37:44.549Z",
   "baseUrl": "https://raw.githubusercontent.com/manuel1chucuan/DavPosFrontPublicBundle/main/browser/",
   "entrypoint": "index.html",
   "files": [
@@ -68,8 +68,8 @@
     },
     {
       "path": "assets/organizacion.svg",
-      "size": 1488,
-      "sha256": "79e972fd8171366c23d2c9a24bbf5a78db4b43b53230f6f0d903e91cbf91d47c"
+      "size": 1513,
+      "sha256": "b6ef79c6503c734b1c7bc8779e68c44f85640222455668006b65e965d03bab5d"
     },
     {
       "path": "assets/producto.jpg",
@@ -78,8 +78,8 @@
     },
     {
       "path": "assets/productosSTD-ui-dark.svg",
-      "size": 929,
-      "sha256": "b7eae4e1145e76f4feac4a20c2e73d4b03d2395321bf171f308bea774f56270a"
+      "size": 958,
+      "sha256": "05d3d38cc283863aead4ccdd1c1cdff394313fa5b9d9800914570eda17846a91"
     },
     {
       "path": "assets/productosSTD-ui-source.png",
@@ -98,13 +98,13 @@
     },
     {
       "path": "assets/servicios-generales.svg",
-      "size": 1196,
-      "sha256": "47bb6e698ba85c0e2e83bd0ff6fa2bc23b6728990bd57da449b5782563493f7e"
+      "size": 1216,
+      "sha256": "41f39a0c837184ba99803ea1627edcec96939d56deeeb4a05b05fa92c8e3782a"
     },
     {
       "path": "assets/serviciosSTD-ui-dark.svg",
-      "size": 1507,
-      "sha256": "17e81c617eb523045c9331e862fd5815ed995f1defb6e21e463057a6ba0ad7a0"
+      "size": 1531,
+      "sha256": "c9338d6e58d95d51674b1880d443974a3f534a9e533dbc39eeedecf0cdc3833e"
     },
     {
       "path": "assets/serviciosSTD-ui-source.png",
@@ -138,18 +138,18 @@
     },
     {
       "path": "index.csr.html",
-      "size": 19497,
-      "sha256": "9a1e6fea8dd0396f389d22dfcf282362042b6af6425e0a82a72df6727fb36b5a"
+      "size": 19599,
+      "sha256": "d1946595c96f6f0d2efe05456de4401b24ffb020da91473c29dcc24f31530518"
     },
     {
       "path": "index.html",
       "size": 37785,
-      "sha256": "f7387319b2dffd392236e907eb412d8f2b2b07ea78c176d65940dc35a63d8e39"
+      "sha256": "ed1c110485c66460da8c143a4c9f8eda3b96c12a9f22655c2172616c0a1671a2"
     },
     {
-      "path": "main-JKR7AQZH.js",
-      "size": 2782150,
-      "sha256": "e8838cab140418c5f37f3ba9c20295823d6e8538686c675508cd6d5c7dd2abe1"
+      "path": "main-YUHAQEDS.js",
+      "size": 2788365,
+      "sha256": "72d4a4d467c5b5461d95bfe815080adfbcb069fe7b437bbc1e8cc333180ac0ba"
     },
     {
       "path": "media/color-727V6BA6.png",
@@ -199,7 +199,7 @@
     {
       "path": "menu/index.html",
       "size": 21986,
-      "sha256": "ec5bbfc6aa94f1fafe5160479020a113aa7cd2c172e71fcca02f3c4aa0086168"
+      "sha256": "2ddcbfc8c8e6968663701e1e61c00cdeac849c4be5386eb0c23915d4f87cf9e1"
     },
     {
       "path": "polyfills-FFHMD2TL.js",
